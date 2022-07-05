@@ -1,0 +1,14 @@
+IdProveedor,Proveedor,Domicilio,Ciudad,Provincia,Pais,Departamento,Localidad_Normalizada,Localidad_Ind,Provincia_Normalizada,Provincia_Ind,id
+1,,Bereguestein 36,Avellaneda,Buenos Aires,Argentina,Avellaneda,VILLA NUEVA,0.6666666666666666,Mendoza,0.47058823529411764,50028020014
+2,San Cirano,Alberti 965,Coronel Brandsen,Buenos Aires,Argentina,Brandsen,Bonpland,0.5,Corrientes,0.46153846153846156,18119010000
+3,Bell S.A.,Moreno 331,Campana,Buenos Aires,Argentina,Campana,Amanao,0.7692307692307693,Catamarca,0.625,10021010000
+4,Rivero Insumos,Pte. Peron 3872,Valentin Alsina,Buenos Aires,Argentina,Lanus,VILLA NACUSI,0.5882352941176471,San Juan,0.43478260869565216,70070050002
+5,Laprida Computacion,Avda. Pedro Pereyra 1339,Laprida,Buenos Aires,Argentina,Laprida,La Rioja,0.6666666666666666,La Rioja,0.6666666666666666,46014010000
+6,Importadora Mann Kloss,Lope De Vega 2102,Boca De Atencion Monte Castro,Caba,Argentina,Comuna 10,Colonia Dora,0.47619047619047616,Santiago del Estero,0.4583333333333333,86028010000
+7,Fletes y Logistica,Santa Rosa 1564,Cordoba,Cordoba,Argentina,Capital,Italó,0.6666666666666666,Córdoba,0.8571428571428571,14035050000
+9,Via Chile Containers,Juan B. Justo 415,Mendoza,Mendoza,Argentina,Capital,Capital,1.0,Mendoza,1.0,50007010001
+10,Full Toner,Cordoba 246,Mendoza,Mendoza,Argentina,Capital,Capital,1.0,Mendoza,1.0,50007010001
+11,Via Chile Containers,Vicealte O Connor 847,San Carlos De Bariloche,Rio Negro,Argentina,Bariloche,Ardiles,0.625,Santiago del Estero,0.5238095238095238,86035030000
+12,Central Rosario SRL,San Martin 4816,Rosario,Santa Fe,Argentina,Rosario,Formosa,0.5714285714285714,Formosa,0.5714285714285714,34014020000
+13,María Rivarola,Santiago Del Estero 1020,San Miguel De Tucuman,Tucuman,Argentina,Capital,Caspi Corral,0.631578947368421,Santiago del Estero,0.5,86070020000
+14,Río Full Net,Belgrano 244,Monteros,Tucuman,Argentina,Monteros,Villa Mantero,0.5714285714285714,Entre Ríos,0.6666666666666666,30098130000

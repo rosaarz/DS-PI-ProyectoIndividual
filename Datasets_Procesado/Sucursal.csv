@@ -1,0 +1,32 @@
+IdSucursal,Sucursal,Domicilio,Localidad,Provincia,Latitud,Longitud,Localidad_Normalizada,Localidad_Ind,Provincia_Normalizada,Provincia_Ind,id
+1,Cabildo,Av. Cabildo 1342,Ciudad de Buenos Aires,Ciudad de Buenos Aires,-34.567806,-58.449572,CIUDAD DE BUENOS AIRES,1.0,Buenos Aires,0.7058823529411765,2000010000
+2,Palermo 1,Guatemala 5701,CABA,CABA,-34.579035,-58.433566,Cabalango,0.6153846153846154,Córdoba,0.5454545454545454,14091030000
+3,Palermo 2,Gral. Lucio Norberto Mansilla 2668,CABA,C deBuenos Aires,-34.595966,-58.40515,Casbas,0.8,Buenos Aires,0.8571428571428571,6399020000
+4,Corrientes,Av. Corrientes 2352,Ciudad de Buenos Aires,Bs As,-34.604685,-58.398764,CIUDAD DE BUENOS AIRES,1.0,Buenos Aires,0.5882352941176471,2000010000
+5,Almagro,Venezuela 3650,Capital,Bs.As. ,-34.617308,-58.416179,TAPIALES,0.6666666666666666,Buenos Aires,0.42105263157894735,6427010011
+6,Caballito,Av. Rivadavia 4708,Capital Federal,Ciudad de Buenos Aires,-34.616303,-58.431849,Capital Federal,1.0,Buenos Aires,0.7058823529411765,2000010000
+7,Flores,Av. Rivadavia 5746,CapFed,Buenos Aires,-34.622868,-58.446449,CLAYPOLE,0.5714285714285714,Buenos Aires,1.0,6028010003
+8,Alberdi,Av. Juan Bautista Alberdi 1634,Cap. Fed.,Buenos Aires,-34.627306,-58.451498,Capital Federal,0.5833333333333334,Buenos Aires,1.0,2000010000
+9,Deposito,Pedernera 530,Cap.   Federal,Buenos Aires,-34.635134,-58.461513,Capital Federal,0.7586206896551724,Buenos Aires,1.0,2000010000
+10,Velez,Av. Juan Bautista Justo 7738,Cdad de Buenos Aires,Ciudad de Buenos Aires,-34.631257,-58.498063,CIUDAD DE BUENOS AIRES,0.9523809523809523,Buenos Aires,0.7058823529411765,2000010000
+11,Vicente Lopez,Av. MaipÃº 829,Vicente López,Buenos Aires,-34.530103,-58.480066,Vicente López,1.0,Buenos Aires,1.0,6861010001
+12,San Isidro,Av. Sta Fe 2552,Martí­nez,B. Aires,-34.494402,-58.497951,MARTINEZ,0.8235294117647058,Buenos Aires,0.7,6756010004
+13,Caseros,Justo JosÃ© de Urquiza 4770,Caseros,B.Aires,-34.605948,-58.563319,CASEROS,1.0,Buenos Aires,0.631578947368421,6840010001
+14,Moron,Salta 250,Moron,Buenos Aires,-34.645896,-58.621149,MORON,1.0,Buenos Aires,1.0,6568010004
+15,Castelar,Sta Rosa 1845,Castelar,Provincia de Buenos Aires,-34.639304,-58.655671,CASTELAR,1.0,Buenos Aires,0.6486486486486487,6568010001
+16,San Justo,Av. Dr. Ignacio Arieta 3451,San Justo,Buenos Aires,-34.681389,-58.556919,SAN JUSTO,1.0,Buenos Aires,1.0,6427010010
+17,Lanus,Pres. Tte. Gral. Juan Domingo PerÃ³n 3270,Lanus,Prov de Bs As.,-34.669805,-58.411312,Lanús,0.8,Buenos Aires,0.38461538461538464,6434010001
+18,Avellaneda,Av. BartolomÃ© Mitre 612,Avellaneda,Buenos Aires,-34.66106,-58.366515,Avellaneda,1.0,Buenos Aires,1.0,6035010001
+19,Quilmes,Peatonal Rivadavia 185,Quilmes,Pcia Bs AS,-34.722253,-58.257576,Quilmes,1.0,Buenos Aires,0.45454545454545453,6658010001
+20,La Plata,Calle 48 974,La Plata,Pcia Bs AS,-34.920777,-57.958889,La Plata,1.0,Buenos Aires,0.45454545454545453,6441010000
+21,MDQ1,San MartÃ­n 2544,Mar del Plata,Buenos Aires,-37.999691,-57.54639,Mar del Plata,1.0,Buenos Aires,1.0,6357110001
+22,MDQ2,Belgrano 2847,Mar del Plata,Buenos Aires,-37.999763,-57.550577,Mar del Plata,1.0,Buenos Aires,1.0,6357110001
+23,Rosario1,Av. Pellegrini 1138,Rosario,Santa Fe,-32.95703,-60.641354,Rosario,1.0,Santa Fe,1.0,82084270000
+24,Rosario2,Rueda 6349,Rosario,Santa Fe,-32.962748,-60.707629,Rosario,1.0,Santa Fe,1.0,82084270000
+25,Córdoba Centro,Av ColÃ³n 251,Córdoba,Córdoba,-31.412747,-64.186458,Córdoba,1.0,Córdoba,1.0,14014010000
+26,Córdoba Quiroz,Av Duarte QuirÃ³s 2910,Coroba,Córdoba,-31.407538,-64.221738,CORDOBA,0.9230769230769231,Córdoba,1.0,14014010000
+27,Cerro de las Rosas,Av. Rafael NÃºÃ±ez 4764,Cordoba,Cordoba,-31.361254,-64.237817,CORDOBA,1.0,Córdoba,0.8571428571428571,14014010000
+28,Tucumán,Av. Sarmiento 525,San Miguel de Tucumán,Tucumán,-26.818045,-65.204071,San Miguel de Tucumán,1.0,Tucumán,1.0,90084010000
+29,Mendoza1,GutiÃ©rrez 349,Mendoza,Mendoza,-32.887531,-68.843308,Mendoza,1.0,Mendoza,1.0,50007010001
+30,Mendoza2,Av. ColÃ³n 255,Mendoza,Mendoza,-32.894292,-68.843802,Mendoza,1.0,Mendoza,1.0,50007010001
+31,Bariloche,Mitre 252,San Carlos de Bariloche,Río Negro,-41.133828,-71.306365,San Carlos de Bariloche,1.0,Río Negro,1.0,62021005000
